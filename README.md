@@ -11,6 +11,9 @@ Excel VBA addin to work with Labcyte Echo transfer reports and pick lists/plate 
   
 ## How to use it:
 
+Place the file EchoTools.xlam in the following directory:
+C:\Users\[yourusernamehere]\AppData\Roaming\Microsoft\AddIns
+
 All modules require the source plate maps to be standardised. For an example, create a new plate map.
 
 ### Create a pick list
